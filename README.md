@@ -1,2 +1,2 @@
 # test
-learning to create repository
+learning to create repository using github
